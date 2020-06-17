@@ -5,6 +5,7 @@
 
 ## PyQT
 [Info page](https://wiki.python.org/moin/PyQt)
+
 [Getting started page](https://wiki.python.org/moin/PyQt)
 
 ## License
