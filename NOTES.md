@@ -9,3 +9,4 @@
 [Getting started page](https://wiki.python.org/moin/PyQt)
 
 [PyQT tutorials](https://www.learnpyqt.com/)
++[Grid layout](https://www.learnpyqt.com/courses/start/layouts/)
