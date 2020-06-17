@@ -9,6 +9,3 @@
 [Getting started page](https://wiki.python.org/moin/PyQt)
 
 [PyQT tutorials](https://www.learnpyqt.com/)
-
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
