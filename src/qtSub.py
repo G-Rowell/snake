@@ -1,19 +1,17 @@
 ###############################################################################
-
 #Library imports
 from PyQt5.QtWidgets import QApplication, QMainWindow, QLabel, QWidget
 from PyQt5.QtGui import QPalette, QColor
 
 ###############################################################################
 class MainWindow(QMainWindow):
-
     def __init__(self, *args, **kwargs):
         super(MainWindow, self).__init__(*args, **kwargs)
         
-        self.setWindowTitle("My Awesome App")
+        self.setWindowTitle("QT Snake")
 
-        widget = Color('red')
-        self.setCentralWidget(widget)
+        #widget = board.createBoard(5,5)
+        #self.setCentralWidget(widget)
 
 class Color(QWidget):
     def __init__(self, color, *args, **kwargs):
